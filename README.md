@@ -63,7 +63,7 @@ This file performs EDA and time-series modeling of EPS on annual data of the ETF
 7. Capstone_Healthcare and Consumer Discretionary.R<br/>
 This file performs EDA and time-series modeling of EPS on annual data of the ETFS for the sectors Healthcare and Consumer Discretionary and macro indicators along with comparison with analysts forecasts.
 
-8. Capstone_IT&Energy.R<br/>
+8. Capstone_IT&Energy.R<br>
 This file performs EDA and time-series modeling of EPS on annual data with of the ETFS for the sectors Information Technology and Energy and macro indicators along with comparison with analysts forecasts.
 
 9. Capstone_Industrials.R<br/>

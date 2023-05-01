@@ -1,16 +1,16 @@
 # Improving-earnings-forecasts-with-macroeconomic-indicators
 
-##Contents of this file
+## Contents of this file
  - About The Project
  - Getting Started
  - Usage
  - Contact
  - Acknowledgements
 
-##About The Project
+## About The Project
 This project aims to improve earnings per share forecasts of 11 sector ETFs by using a variety of different macro-economic indicators such as federal funds rate, inflation rate, building permits, money stock, etc. We are exploring the effect of macro indicators on the EPS and comparing our model to existing models of other analysts and improving on them.
 
-###Built With
+### Built With
 This project is built with a variety of packages and softwares:
 - RStudio
 - RPostgres
@@ -25,7 +25,7 @@ This project is built with a variety of packages and softwares:
 - corrplot
 - forecast
 
-###Data
+### Data
 The data is found from multiple sources such as:
 - Compustat
 - IBES
@@ -33,13 +33,13 @@ The data is found from multiple sources such as:
 - WRDS
 - Factset
 
-##Getting Started
+## Getting Started
 Install RStudio on your desktop and then install the above mentioned packages with the command:
 install.packages("package_name")
 The package can then be loaded in the system through the library function which is in the code itself
 library("package_name")
 
-###Files
+### Files
 For this project a variety of files were used for different purposes:
 
 1. Capstone_ibes+compustat.R

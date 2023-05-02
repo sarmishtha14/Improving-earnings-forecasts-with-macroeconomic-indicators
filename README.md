@@ -67,4 +67,7 @@ This file performs EDA and time-series modeling of EPS on annual data of the ETF
 This file performs EDA and time-series modeling of EPS on annual data with of the ETFS for the sectors Information Technology and Energy and macro indicators along with comparison with analysts forecasts.
 
 9. Capstone_Industrials.R<br/>
-This file performs EDA and time-series modeling of EPS on annual data with of the ETFS for the sectors Industrials and Financials and macro indicators along with comparison with analysts forecasts.
+This file performs EDA and time-series modeling of EPS on annual data with of the ETFS for the sectors Industrials and macro indicators along with comparison with analysts forecasts.
+
+10. Capstone_financial.R<br/>
+This file performs EDA and time-series modeling of EPS on annual data with of the ETFS for the sector Financials and macro indicators along with comparison with analysts forecasts.
